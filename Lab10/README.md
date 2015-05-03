@@ -6,7 +6,11 @@
 ## Remaks(!!!important)
 
 1. history.xml is located on disk D
-2. history.xml format: message author Tyler /author text Hello /text /message
+2. history.xml format: 
+   **message** 
+   **author Tyler /author** 
+   **text Hello /text** 
+   **/message1**
 3. json
 		author: “author”,
           	text: “text”
