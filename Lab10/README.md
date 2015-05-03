@@ -7,13 +7,13 @@
 
 1. history.xml is located on disk D
 2. history.xml format
-			<message>
-				<author>Tyler</author>
-				<text>Hello</text>
-			</message>
+			#<message>
+				#<author>Tyler</author>
+				#<text>Hello</text>
+			#</message>
 3. json
-		author: ìauthorî,
-          	text: ìtextî
+		author: ‚Äúauthor‚Äù,
+          	text: ‚Äútext‚Äù
 
 ## How to give it a go?
 
