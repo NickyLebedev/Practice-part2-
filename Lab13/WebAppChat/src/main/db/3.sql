@@ -1,0 +1,1 @@
+select * from messages where id_user = 1 and date between '15.05.2.0.0.0' and '15.05.3.0.0.0';

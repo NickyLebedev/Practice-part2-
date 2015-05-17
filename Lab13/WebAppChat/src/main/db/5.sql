@@ -1,0 +1,1 @@
+select name from users,messages where id_user=users.id group by id_user HAVING COUNT(id_user)>3;
